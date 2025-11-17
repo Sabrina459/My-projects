@@ -1,8 +1,8 @@
 # 📘 Project Portfolio
 
-Welcome to my project portfolio!
+Hi! My name is Sabrina and you are looking at my projects portfolio!
 
-This repository highlights a selection of my work across system design, social robotics research, HCI, and applied software engineering. Each project reflects my interest in building thoughtful, user-centered systems — whether through research, automation, or full-stack development.
+This repository highlights my work across **system design**, social **robotics research**, **HCI**, and applied **software engineering**. Each project reflects my interest in building thoughtful, user-centered systems — whether through research, automation, or full-stack development.
 
 # 🧠 Comparative analysis of perceptions of autistic traits in Human and Robotic agents
 **[Paper](https://github.com/Sabrina459/My-projects/blob/main/Social%20Robotics%20Research.pdf)**
