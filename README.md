@@ -1,4 +1,4 @@
-# 📘 Sabrina Saiko — Project Portfolio
+# 📘 Project Portfolio
 
 Welcome to my project portfolio!
 
