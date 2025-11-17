@@ -15,7 +15,7 @@ This repository highlights my work across **system design**, social **robotics r
 
 - Includes NLP-based relevance scoring and a flexible template fill engine.
 
-- Supports DOCX output with preserved formatting.
+- (In development) Supports DOCX output with preserved formatting.
 
 # 📄 CSV Parsing & Automation System
 **[Master Repository](https://github.com/Sabrina459/DataExtraction-Platform)**
