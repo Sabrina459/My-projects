@@ -4,6 +4,40 @@ Hi! My name is Sabrina and you are looking at my projects portfolio!
 
 This repository highlights my work across **system design**, social **robotics research**, **HCI**, and applied **software engineering**. Each project reflects my interest in building thoughtful, user-centered systems — whether through research, automation, or full-stack development.
 
+# 🎓  Investigating the gap between research and practice in Robot-Based therapy for Autism Spectrum Disorder
+**[Thesis](https://uwspace.uwaterloo.ca/items/6efd1ff3-03d0-477f-a646-fd7e1db2966d)**
+
+**Type:** User Experience Research | Human-Factors Research 
+
+**Focus:** Human–Robot Interaction, Social Robotics, ASD
+
+- Investigated how people interact with socially assistive robots and how design, behavior cues, and modality impact trust and engagement.
+
+- Conducted user studies, data analysis, and prototyping of interaction scenarios.
+
+- Informed design guidelines for more empathetic and accessible robot behaviors.
+
+# 🎓  “CARECOPMASS” AI-POWERED PORTAL FOR CANCER PATIENTS EDUCATION AND SUPPORT
+**[Design Journey](https://www.figma.com/design/0tgrXfFhf3m1HN6WoB7P6I/CareCompass--Velocity-Health-Innovation?node-id=214-410&t=68LrOjDYIsP57iTR-1)**
+
+**Topic:** Product Design - Accessible Information Systems for Cancer Patients
+
+- Designed and evaluated an app that supports cancer patients with clear, empathetic, and accessible information.
+
+- Led UX research, wireframing, prototyping, and iterative testing with real users.
+
+- Developed recommendations for designing healthcare information tools that prioritize emotional and cognitive accessibility.
+
+# 🎓  AI-DRIVEN MENTORSHIP FACILITATOR
+
+**[Design Journey](https://group-8---project-2.webflow.io/)**
+
+**Topic:** "Find your mentor, build a community, learn and have fun"
+
+- Led the development of an AI-driven platform, conducting user flow analysis and creating personas to inform design decisions
+
+- Utilized iterative low-fidelity and high-fidelity prototypes for user testing, ensuring usability and alignment with user needs
+
 # 🛠️ CV Generator
 **[Master Repository](https://github.com/Sabrina459/CVGenerator)**
 
@@ -46,28 +80,13 @@ This repository highlights my work across **system design**, social **robotics r
 # 🧠 Comparative analysis of perceptions of autistic traits in Human and Robotic agents
 **[Paper](https://github.com/Sabrina459/My-projects/blob/main/Social%20Robotics%20Research.pdf)**
 
-**Type:** Academic Research
+**Type:** User Experience Research | Human-Factors Research 
 
 **Focus:** Human–Robot Interaction, Social Robotics, Assistive Robotics
 
-- Investigated how people interact with socially assistive robots and how design, behavior cues, and modality impact trust and engagement.
+- Investigated how people react to autistic traits produced by robot vs human.
 
-- Conducted user studies, data analysis, and prototyping of interaction scenarios.
-
-- Informed design guidelines for more empathetic and accessible robot behaviors.
-
-# 🎓  Investigating the gap between research and practice in Robot-Based therapy for Autism Spectrum Disorder
-**[Thesis](https://uwspace.uwaterloo.ca/items/6efd1ff3-03d0-477f-a646-fd7e1db2966d)**
-
-**Type:** Master’s Thesis 
-
-**Topic:** Accessible Information Systems for Cancer Patients
-
-- Designed and evaluated an app that supports cancer patients with clear, empathetic, and accessible information.
-
-- Led UX research, wireframing, prototyping, and iterative testing with real users.
-
-- Developed recommendations for designing healthcare information tools that prioritize emotional and cognitive accessibility.
+- Conducted user surveys, data analysis, and prototyping of interaction scenarios.
 
 # 🎮 Game Projects
 
