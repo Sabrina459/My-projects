@@ -17,7 +17,7 @@ This repository highlights my work across **system design**, social **robotics r
 
 - Informed design guidelines for more empathetic and accessible robot behaviors.
 
-# 🎓  “CARECOPMASS” AI-POWERED PORTAL FOR CANCER PATIENTS EDUCATION AND SUPPORT
+# 🧭  “CARECOPMASS” AI-POWERED PORTAL FOR CANCER PATIENTS EDUCATION AND SUPPORT
 **[Design Journey](https://www.figma.com/design/0tgrXfFhf3m1HN6WoB7P6I/CareCompass--Velocity-Health-Innovation?node-id=214-410&t=68LrOjDYIsP57iTR-1)**
 
 **Topic:** Product Design - Accessible Information Systems for Cancer Patients
@@ -28,7 +28,7 @@ This repository highlights my work across **system design**, social **robotics r
 
 - Developed recommendations for designing healthcare information tools that prioritize emotional and cognitive accessibility.
 
-# 🎓  AI-DRIVEN MENTORSHIP FACILITATOR
+# 😎 AI-DRIVEN MENTORSHIP FACILITATOR
 
 **[Design Journey](https://group-8---project-2.webflow.io/)**
 
