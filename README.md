@@ -4,6 +4,32 @@ Hi! My name is Sabrina and you are looking at my projects portfolio!
 
 This repository highlights my work across **system design**, social **robotics research**, **HCI**, and applied **software engineering**. Each project reflects my interest in building thoughtful, user-centered systems — whether through research, automation, or full-stack development.
 
+# Docker Painpoints tracker
+**[Check it out]https://sabrina459.github.io/docker-painpoints-tracker.github.io**
+**[Master Repository](https://github.com/Sabrina459/docker-painpoints-tracker.github.io)** 
+**Type:** Dashboard
+
+**Focus:** UX Engineering | Front-end Engineering
+
+**Stack:** TypeScript, Vite
+
+- Build it just for fun, when applying to Docker
+- Learned how Reddit API works
+- Designed a dashboard to track severity of the issues that user posts on Reddit forums about Docker
+
+# 📄 CSV Parsing & Automation System
+**[Master Repository](https://github.com/Sabrina459/DataExtraction-Platform)**
+
+**Type:** Personal Project
+
+**Stack:** JavaScript, Node.js, MongoDB, Chrome Extension, Google Cloud Run
+
+- Developed a parsing system for extracting structured data from e-commerce websites
+
+- Deployed early version as a Chrome extension to the Chrome Webstore
+
+- Expanded it into a scalable, multi-user platform with OAuth-based authentication and MongoDB integration
+
 # 🎓  Investigating the gap between research and practice in Robot-Based therapy for Autism Spectrum Disorder
 **[Thesis](https://uwspace.uwaterloo.ca/items/6efd1ff3-03d0-477f-a646-fd7e1db2966d)**
 
@@ -50,19 +76,6 @@ This repository highlights my work across **system design**, social **robotics r
 - Includes NLP-based relevance scoring and a flexible template fill engine.
 
 - (In development) Supports DOCX output with preserved formatting.
-
-# 📄 CSV Parsing & Automation System
-**[Master Repository](https://github.com/Sabrina459/DataExtraction-Platform)**
-
-**Type:** Personal Project
-
-**Stack:** JavaScript, Node.js, Chrome Extension, REST API, Google Cloud Run
-
-- Developed a parsing system for extracting structured data from e-commerce websites.
-
-- Early version works as a Chrome extension with hard-coded site profiles calling my API hosted on Google Cloud Run.
-
-- Currently expanding it into a scalable, multi-user platform with OAuth-based authentication.
 
 # 🏆 Hackathon: AI-portal for cancer patient education - System Design Poster
 **[Poster](https://github.com/Sabrina459/Velocity-Hack2025)**
