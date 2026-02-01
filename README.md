@@ -5,7 +5,8 @@ Hi! My name is Sabrina and you are looking at my projects portfolio!
 This repository highlights my work across **system design**, social **robotics research**, **HCI**, and applied **software engineering**. Each project reflects my interest in building thoughtful, user-centered systems — whether through research, automation, or full-stack development.
 
 # Docker Painpoints tracker
-**[Check it out]https://sabrina459.github.io/docker-painpoints-tracker.github.io**
+**[Check it out](https://sabrina459.github.io/docker-painpoints-tracker.github.io)**
+
 **[Master Repository](https://github.com/Sabrina459/docker-painpoints-tracker.github.io)** 
 **Type:** Dashboard
 
