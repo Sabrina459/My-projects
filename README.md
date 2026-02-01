@@ -8,6 +8,7 @@ This repository highlights my work across **system design**, social **robotics r
 **[Check it out](https://sabrina459.github.io/docker-painpoints-tracker.github.io)**
 
 **[Master Repository](https://github.com/Sabrina459/docker-painpoints-tracker.github.io)** 
+
 **Type:** Dashboard
 
 **Focus:** UX Engineering | Front-end Engineering
@@ -15,7 +16,9 @@ This repository highlights my work across **system design**, social **robotics r
 **Stack:** TypeScript, Vite
 
 - Build it just for fun, when applying to Docker
+  
 - Learned how Reddit API works
+  
 - Designed a dashboard to track severity of the issues that user posts on Reddit forums about Docker
 
 # 📄 CSV Parsing & Automation System
